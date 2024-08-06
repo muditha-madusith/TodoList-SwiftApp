@@ -16,6 +16,7 @@
 		8768C58D2C5FB6FE00D260E6 /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8768C58C2C5FB6FE00D260E6 /* ItemModel.swift */; };
 		8768C5902C5FC2DF00D260E6 /* ListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8768C58F2C5FC2DF00D260E6 /* ListViewModel.swift */; };
 		8798A8E52C61506100809FA4 /* NoItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8798A8E42C61506100809FA4 /* NoItemsView.swift */; };
+		87B3B89B2C62A8E5005273FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87B3B89A2C62A8E5005273FC /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		8768C58C2C5FB6FE00D260E6 /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
 		8768C58F2C5FC2DF00D260E6 /* ListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModel.swift; sourceTree = "<group>"; };
 		8798A8E42C61506100809FA4 /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
+		87B3B89A2C62A8E5005273FC /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				8768C5872C5FAD0E00D260E6 /* ListRowView.swift */,
 				8768C5892C5FB1D000D260E6 /* AddView.swift */,
 				8798A8E42C61506100809FA4 /* NoItemsView.swift */,
+				87B3B89A2C62A8E5005273FC /* LaunchScreen.storyboard */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -164,6 +167,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87B3B89B2C62A8E5005273FC /* LaunchScreen.storyboard in Resources */,
 				8768C57E2C5FA97500D260E6 /* Preview Assets.xcassets in Resources */,
 				8768C57B2C5FA97500D260E6 /* Assets.xcassets in Resources */,
 			);
